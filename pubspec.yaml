@@ -14,7 +14,7 @@ dependencies:
     git: 
       url: https://github.com/johannesvuorinen/plugin_libphonenumber.git # PhoneNumberKit 4.0 migration
       ref: main
-      path: plugin_libphonenumber
+      path: libphonenumber_plugin
   equatable: ^2.0.5
   collection: ^1.18.0
 
